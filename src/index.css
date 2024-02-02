@@ -1,0 +1,13 @@
+
+body {
+  margin: 0;
+background-color: cadetblue;
+  min-width: 320px;
+  min-height: 100vh;
+  padding: 50px;
+  text-align: center;
+}
+.colour{
+  background-color: red;
+  width: 100%;
+}
